@@ -2,11 +2,14 @@
 solved.ac 연속 해결이 끊기지 않도록 알려주는 텔레그램 알람 서비스 입니다.
 
 ## 작동 예시
-![image](https://user-images.githubusercontent.com/15870158/144160623-54f77931-cb2a-4c6a-9dd0-64a687da3224.png)
 
 미리 작성된 crontab으로 작동하며 오전 10시부터 오후 11시까지 정각마다 문제를 제출하지 않았다면 알람을 보내줍니다
 
+![image](https://user-images.githubusercontent.com/15870158/144160623-54f77931-cb2a-4c6a-9dd0-64a687da3224.png)
+
 만약 오늘 문제를 풀었다면 알람은 더 이상 오지 않습니다.
+
+![image](https://user-images.githubusercontent.com/15870158/144218291-5f6eba92-3104-47b9-8939-c4eafb852e0e.png)
 
 ## 사용법
 이 프로그램을 사용할려면 아래의 목록이 필요합니다. 
