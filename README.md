@@ -29,7 +29,7 @@ solved.ac 연속 해결이 끊기지 않도록 알려주는 텔레그램 알람 
 
 ![image](https://user-images.githubusercontent.com/15870158/144162827-89016fa7-06ac-4f78-9bae-1cfc9b0cd17d.png)
  
-환경변수 설정이 끝났다면 다음을 입력해  시작합니다
+환경변수 설정이 끝났다면 다음을 입력해 서버를 시작합니다
 
     npm install
     npm run start
