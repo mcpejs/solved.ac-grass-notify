@@ -1,0 +1,6 @@
+{
+  "name": "solved.ac-grass-notify",
+  "description": "solved.ac 문제풀라고 알려주는 텔레그램 알람",
+  "repository": "https://github.com/mcpejs/solved.ac-grass-notify",
+  "keywords": ["node", "telegram", "bot"]
+}
