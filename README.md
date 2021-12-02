@@ -12,6 +12,21 @@ solved.ac 연속 해결이 끊기지 않도록 알려주는 텔레그램 알람 
 ![image](https://user-images.githubusercontent.com/15870158/144218291-5f6eba92-3104-47b9-8939-c4eafb852e0e.png)
 
 ## 사용법
+
+### 헤로쿠로 배포하기
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+위 버튼을 클릭하면 헤로쿠 배포 페이지로 이동됩니다.
+
+이름을 정하고 deploy 한뒤 Manage App으로 들어가세요
+
+![image](https://user-images.githubusercontent.com/15870158/144342019-c6580b88-196d-4478-b729-7b735988f923.png)
+
+이후 settings에서 Config Vars 탭에 KEY VALUE를 추가해 환경변수 설정을 마치면 서버가 시작됩니다.
+
+### 수동으로 배포하기
+
 이 프로그램을 사용할려면 아래의 목록이 필요합니다. 
 
 각각 클릭하면 찾는 방법이 나옵니다
